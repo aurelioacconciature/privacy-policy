@@ -1,1 +1,97 @@
-# privacy-policy
+# INFORMATIVA SULLA PRIVACY
+## App AurelioAcconciature
+
+**Ultimo aggiornamento:** 18/11/2026
+
+### 1. Titolare del trattamento
+
+Il titolare del trattamento dei dati personali è:
+
+**AurelioAcconciature**
+
+Email: aurelioacconciature@gmail.com
+
+Sede legale: Via Zeveto 23, Chiari, 25032, BS, Italy
+
+Il titolare è responsabile del trattamento dei dati personali raccolti attraverso l'applicazione AurelioAcconciature, nel rispetto del Regolamento UE 2016/679 (GDPR) e della normativa italiana applicabile.
+
+### 2. Dati personali raccolti
+
+Attraverso l'applicazione possono essere raccolti i seguenti dati, in funzione delle funzionalità utilizzate dall'utente:
+
+- Nome e cognome.
+- Indirizzo email.
+- Numero di telefono, se richiesto.
+- Dati relativi all'account e all'autenticazione.
+- Informazioni relative alle prenotazioni degli appuntamenti.
+- Informazioni sulle preferenze e sui servizi selezionati.
+- Dati tecnici necessari al funzionamento e alla sicurezza dell'applicazione.
+
+### 3. Finalità del trattamento
+
+I dati personali vengono utilizzati per:
+
+- Consentire la registrazione e l'accesso all'app.
+- Gestire gli account degli utenti.
+- Consentire la prenotazione e la gestione degli appuntamenti.
+- Comunicare con i clienti in relazione ai servizi richiesti.
+- Fornire informazioni sui servizi e sui prodotti del salone.
+- Garantire il corretto funzionamento e la sicurezza dell'applicazione.
+
+Eventuali comunicazioni promozionali saranno gestite nel rispetto delle disposizioni applicabili e, ove necessario, previo consenso dell'interessato.
+
+### 4. Modalità di trattamento e conservazione
+
+I dati vengono trattati mediante strumenti informatici e telematici, adottando misure di sicurezza adeguate per proteggerli da accessi non autorizzati, perdita, divulgazione o utilizzo improprio.
+
+I dati relativi agli account e alle prenotazioni sono gestiti attraverso il server del gestionale utilizzato dal salone.
+
+I dati vengono conservati per il tempo necessario al raggiungimento delle finalità per cui sono stati raccolti e nel rispetto degli eventuali obblighi di legge.
+
+### 5. Comunicazione a terzi
+
+I dati personali possono essere comunicati a fornitori di servizi informatici e gestionali che supportano il funzionamento dell'applicazione e la gestione delle prenotazioni, nei limiti necessari all'erogazione dei servizi.
+
+Tali soggetti operano, ove previsto, in qualità di responsabili del trattamento o secondo il ruolo previsto dalla normativa applicabile.
+
+I dati non vengono venduti a terzi per finalità commerciali.
+
+### 6. Diritti dell'interessato
+
+L'utente può esercitare i diritti previsti dagli articoli 15-22 del GDPR, tra cui:
+
+- Accesso ai propri dati personali.
+- Rettifica dei dati inesatti.
+- Cancellazione dei dati, nei casi previsti dalla legge.
+- Limitazione del trattamento.
+- Opposizione al trattamento, ove applicabile.
+- Portabilità dei dati, nei casi previsti.
+- Revoca del consenso precedentemente prestato.
+
+Per esercitare i propri diritti è possibile scrivere a:
+
+**aurelioacconciature@gmail.com**
+
+### 7. Cancellazione dell'account
+
+L'utente può richiedere la cancellazione del proprio account e dei relativi dati personali attraverso le funzionalità messe a disposizione nell'applicazione oppure secondo la procedura di cancellazione comunicata dal titolare.
+
+I dati soggetti a obblighi legali di conservazione potranno essere mantenuti per il periodo previsto dalla normativa applicabile.
+
+### 8. Sicurezza dei dati
+
+Il titolare adotta misure tecniche e organizzative adeguate per proteggere i dati personali e prevenire accessi non autorizzati, alterazioni, divulgazioni o distruzioni accidentali.
+
+### 9. Modifiche alla presente informativa
+
+La presente informativa può essere aggiornata in caso di modifiche alle funzionalità dell'applicazione o alla normativa applicabile.
+
+Le eventuali modifiche saranno rese disponibili attraverso i canali ufficiali dell'applicazione.
+
+### 10. Contatti
+
+Per qualsiasi informazione relativa alla privacy e al trattamento dei dati personali:
+
+**AurelioAcconciature**
+
+Email: aurelioacconciature@gmail.com
